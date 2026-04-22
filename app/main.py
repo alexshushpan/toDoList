@@ -1,0 +1,1 @@
+# створення FastAPI app + lifespan
